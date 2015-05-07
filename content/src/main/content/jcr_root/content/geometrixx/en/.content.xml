@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/etc/designs/geometrixx"
+        cq:lastModified="{Date}2015-05-07T08:52:42.527-07:00"
+        cq:lastModifiedBy="admin"
+        cq:template="/apps/geometrixx/templates/homepage"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="English"
+        sling:resourceType="geometrixx/components/homepage"
+        pageTitle="GeoMetrixx">
+        <par
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <colctrl/>
+            <image/>
+            <title_1/>
+            <text_1/>
+            <col_break12825937554040/>
+            <image_0/>
+            <title_2/>
+            <text_0
+                jcr:created="{Date}2010-08-23T22:16:30.440+02:00"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2015-05-07T08:52:42.520-07:00"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/text"
+                text="&lt;p>The Geometrixx investment in R&amp;amp;D has done more than solidify our industry leadership role, we have now outpaced our competitors to such an extent that we are in an altogether new space.&lt;/p>&#xa;&lt;p>This is why our high quality polygons and polyhedra provide the only turnkey solutions across the whole range of euclidean geometry. And our mathematicians are working on the next generation of fractal curves to bring you shapes that are unthinkable today.&lt;/p>&#xa;&lt;p>&lt;a adhocenable=&quot;false&quot; href=&quot;/content/foo&quot;>click me&lt;/a>&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;"
+                textIsRich="true"/>
+            <col_end12825937444810/>
+        </par>
+        <header/>
+        <newslist/>
+        <lead/>
+        <image/>
+        <carousel/>
+        <rightpar/>
+    </jcr:content>
+    <toolbar/>
+    <products/>
+    <services/>
+    <company/>
+    <events/>
+    <support/>
+    <community/>
+    <blog/>
+</jcr:root>
